@@ -1,22 +1,6 @@
-Welcome to Lumache's documentation!
+Inclave Casino
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+If you are a fan of online gambling, you may want to check out the Inclave Casino list. Inclave Casino offers a wide range of exciting and entertaining games for players of all skill levels. From classic slots to innovative table games, there is something for everyone at Inclave Casino. The user-friendly interface and seamless gameplay make it easy to navigate the site and start playing your favorite games in no time. Whether you are a seasoned gambler or just looking to try your luck, Inclave Casino has something for you. So why wait? Join Inclave Casino today and start winning big!
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
-.. note::
-
-   This project is under active development.
-
-Contents
---------
-
-.. toctree::
-
-   usage
-   api
+[https://www.inclave-casino-list.com/](https://www.inclave-casino-list.com/)
